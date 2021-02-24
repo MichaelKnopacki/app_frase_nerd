@@ -29,7 +29,7 @@ Escolhi as frases do mundo nerd, pois como bom nerd estou valorizando o meu mund
 ## Instalação 
 
 ### Download
-Para fazer o download do app [clique aqui]().
+Para fazer o download do app [clique aqui](https://github.com/MichaelKnopacki/app_frase_nerd/releases/tag/1.0.0).
 
 ### Instalação e Permissões
 - Para que a instalação ocorra de forma satisfatória, copie e cole o arquivo .apk em seu celular e abra-o.
