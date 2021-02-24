@@ -43,7 +43,7 @@ Para falar comigo você pode utilizar Redes Sociais abaixo...
 
 [![Subscribe on Youtube](https://img.shields.io/badge/--youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/adrianoleitedasilva/) [![Follow on Behance](https://img.shields.io/badge/--behance?label=Behance&logo=Behance&style=social)](https://www.behance.net/silvaadrianleite) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/_adrianosilva89) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/adrianoleitedasilva/)
 
-... ou pode enviar um e-mail para [hey@adrianosilva.dev.br](hey@adrianosilva.dev.br). Vou adorar falar com você.
+... ou pode enviar um e-mail para [hey@adrianosilva.dev.br](michaelknopacki@hotmail.com). Vou adorar falar com você.
 
 ## Roadmap
 
