@@ -4,4 +4,4 @@
 
 ### FRASES NERD
 
-    Aplicativo gerador de frase dos maiores personagens "nerd`s" conhecidos.
+    Aplicativo gerador das melhores frase, dos maiores personagens "nerd`s" conhecidos em toda galáxia.
